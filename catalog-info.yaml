@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-template-test
+  annotations:
+    github.com/project-slug: jprejith/my-template-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jprejith
